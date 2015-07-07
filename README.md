@@ -9,12 +9,12 @@ This application can be used for WiFi finger print collection. WiFi fingerprint 
 
 Bottons:
 
-SHOW - Displays the Access point details from the last scan, 
-+ - Add the details displayed on the scroll text view to the DB, 
-GET - Display the details stored in the DB, 
-CLR - Clear the scroll text view, 
-DROP - Drop the table in the database, 
-W - Perform a fresh scan,  
+SHOW - Displays the Access point details from the last scan 
+PLUS - Add the details displayed on the scroll text view to the DB 
+GET - Display the details stored in the DB 
+CLR - Clear the scroll text view 
+DROP - Drop the table in the database 
+W - Perform a fresh scan  
 
 ID Text box - A unique ID can be specified to identify the location where the scan is performed.
 
